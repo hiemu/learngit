@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 developing...
 from WSmini
 comment
+author: terry
